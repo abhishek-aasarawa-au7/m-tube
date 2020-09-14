@@ -1,3 +1,0 @@
-You will need following reuirements:
-    1. pip
-    2. requests library (Only if you are not installing pip package of project, in pip package it is included)

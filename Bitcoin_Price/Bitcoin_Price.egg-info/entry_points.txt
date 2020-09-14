@@ -1,3 +1,0 @@
-[console_scripts]
-Bitcoin_Price = BitcoinPrice.Bitcoin_Price:main
-
